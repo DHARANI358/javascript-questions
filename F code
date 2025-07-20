@@ -1,0 +1,8 @@
+function sayhi()
+{
+console.log( name);
+console .log(age);
+var name='dhara';
+led age=21;
+}
+sayhi ();   
